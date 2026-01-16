@@ -1,0 +1,34 @@
+# Backend (Java/Spring)
+backend/build/
+backend/.gradle/
+backend/logs/
+backend/*.log
+backend/.env
+
+# Web (React/TypeScript)
+web/node_modules/
+web/dist/
+web/.env
+web/.env.local
+
+# Mobile (Android/Kotlin)
+mobile/.gradle/
+mobile/.idea/
+mobile/build/
+mobile/*/build/
+mobile/local.properties
+mobile/*.iml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
